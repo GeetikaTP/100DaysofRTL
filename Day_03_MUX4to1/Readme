@@ -1,0 +1,9 @@
+4:1 MUX
+
+Multiplexer is a combinational circuit with max 2^n Data input lines and n select lines.
+It gives output based on the select lines.
+The input for 4:1 mux are I0,I1,I2,I3 ; select lines are S0,S1 and output as Y;
+IF SOS1=00 Y=I0;
+S0S1 = 01 Y=I1;
+S0S1 = 10 Y=I2;
+S0S1 =11 Y=I3;
