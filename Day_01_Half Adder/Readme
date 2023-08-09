@@ -1,0 +1,9 @@
+Half adder is used to add two bits.
+
+Here If a = b=0 then sum =0 and carry = 0;
+If a =0 0r 1 and b=1 or 0 then sum =1 and carry = 0;
+If a=b=1 then sum = 0 and carry = 1
+
+We can make Half adder using Basic XOR and AND gate.
+Sum =  A XOR B;
+Carry = A AND B;
