@@ -1,0 +1,11 @@
+Full Adder
+
+Full adder is used to add three bits.
+Eight output combinations are possible.
+The input to the adder are A,B,Cin.
+The Outputs are Sum and Carry.
+Sum = A XOR B XOR C;
+Carry = AB + BC + AC;
+
+Can be implemented using 2 XOR + 2 AND+ 1 OR
+or it can be implemented using 9 NAND/ 9 NOR Universal gates.
