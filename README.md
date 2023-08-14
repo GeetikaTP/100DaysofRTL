@@ -14,3 +14,5 @@ Day 5 - D flip flop (Synchronous)
 
 Day 6 - 3:8 Decoder
 
+Day 7 - 8:3 Encoder
+
